@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **clone of Amazon,Netflix and many website and implement something new**
 
-- 👨‍💻 All of my projects are available at [anubhavy-05](anubhavy-05)
+- 👨‍💻 All of my projects are available at https://github.com/anubhavy-05
 
 - 💬 Ask me about **HTML,CSS,PYTHON (Basics),C,**
 
