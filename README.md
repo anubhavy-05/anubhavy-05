@@ -29,11 +29,11 @@
 ```yaml
 name: Anubhav Yadav
 location: India 🇮🇳
-role: Frontend Developer
+role: Full Stack Developer / System Designer
 currently_learning:
-  - Web Development
+  - Building AI Agents & Full Stack Web Apps
   - DSA with Java
-currently_building: Price Prediction for Agriculture Commodities 🌾
+currently_building: Price Prediction for Agriculture Commodities 
 ask_me_about:
   - HTML & CSS
   - Python (Basics)
@@ -81,83 +81,5 @@ fun_fact: I turn ☕ into clean, responsive UIs!
 <div align="center">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavy-05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavy-05&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anubhavy-05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🌾 Project | 📝 Description | 🔧 Tech Stack |
-|:---:|:---:|:---:|
-| **Price Prediction for Agriculture** | ML-powered price forecasting tool for agricultural commodities | Python, ML |
-| **Amazon Clone** | A pixel-perfect clone of Amazon's UI | HTML, CSS, JS |
-| **Netflix Clone** | Responsive streaming platform UI clone | HTML, CSS, JS |
-
-</div>
-
-> 💡 Check out all my projects → **[github.com/anubhavy-05](https://github.com/anubhavy-05)**
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-yadav-93bb83268)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anubhavy-05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay8400673@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anubhavy-05/anubhavy-05/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anubhavy-05/anubhavy-05/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anubhavy-05/anubhavy-05/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
-
-**⭐ From [Anubhav Yadav](https://github.com/anubhavy-05) — Thanks for visiting!**
 
 </div>
